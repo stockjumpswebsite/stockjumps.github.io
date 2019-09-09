@@ -41,14 +41,28 @@ steve.davis@chicagobooth.edu | <a href="https://www.chicagobooth.edu/faculty/dir
 Steven J. Davis is the William H. Abbott Professor of International Business and Economics at the University of Chicago Booth School of Business and a visiting fellow at the Hoover Institution. His research interests include employment and wage behavior, worker mobility, job loss, labor market institutions, business dynamics, economic fluctuations, national economic performance, and public policy. He is a research associate with the NBER, advisor to the U.S. Congressional Budget Office, a senior adviser to the Brookings Papers on Economic Activity, senior academic fellow with the Asian Bureau of Finance and Economics Research and visiting scholar and consultant, respectively, with the Federal Reserve Banks of Atlanta and Chicago. He is a past editor of the American Economic Journal: Macroeconomics, published by the American Economic Association.
 
 
-Marco: PhD Student at Northwestern in Finance
+Marco Sammon
+
+PhD Student, Northwestern University, Kellogg School of Management
+
+marco@somethingnorthwesternrelated.edu | <a href="http://marcosammon.com/">Website</a>
+
+Marco is a PhD student at Northwestern.
 
 VP's:
 
-Tasaneeya
+Tasaneeya Viratyosin
+
+PhD Student, University of Pennsylvania, Wharton School of Business
+
+tasaneeya@somethingpennrelated.edu | <a href="https://www.wharton.upenn.edu/">Website</a>
+
+Tasaneeya is a PhD student at UPenn Wharton.
 
 Coders:
 
 TJ
+
+Riley
 
 etc.
