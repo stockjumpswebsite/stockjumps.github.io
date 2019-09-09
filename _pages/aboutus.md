@@ -19,7 +19,7 @@ Nick Bloom
 
 Stanford University 
 
-nbloom@stanford.edu | Website 
+nbloom@stanford.edu | <a href="http://www.stanford.edu/~nbloom/">Website</a> 
 
 Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. He also works on understanding differences in management and organizational practices across firms and countries. He previously worked as a research economist at the Institute for Fiscal Studies, a policy advisor at HM Treasury and as a management consultant at McKinsey & Company. He is a graduate of Cambridge University, with a MPhil from Oxford University, and a PhD from University College London.  
 
