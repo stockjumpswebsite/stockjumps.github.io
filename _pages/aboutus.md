@@ -9,7 +9,7 @@ CEO's:
 
 Scott R. Baker
 
-<img src="ScottRBaker.jpg" alt="Scott R. Baker" height="50" width="50">
+<img src="https://github.com/stockjumpswebsite/stockjumps/blob/master/_pages/ScottRBaker.jpg" alt="Scott R. Baker" height="200" width="200">
 
 
 Northwestern University, Kellogg School of Management 
