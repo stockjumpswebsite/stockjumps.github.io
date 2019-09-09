@@ -13,7 +13,7 @@ Nick
 
 Steve
 
-Marco
+Marco: PhD Student at Northwestern in Finance
 
 VP's:
 
