@@ -9,7 +9,7 @@ CEO's:
 
 Scott R. Baker
 
-<img src="ScottRBaker.jpg" alt="Scott R. Baker">
+<img src="ScottRBaker.jpg" alt="Scott R. Baker" height="50" width="50">
 
 
 Northwestern University, Kellogg School of Management 
