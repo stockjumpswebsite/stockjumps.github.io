@@ -43,6 +43,8 @@ Steven J. Davis is the William H. Abbott Professor of International Business and
 
 Marco Sammon
 
+<img src="s200_marco.sammon.jpg" alt="Marco Sammon">
+
 PhD Student, Northwestern University, Kellogg School of Management
 
 marco@somethingnorthwesternrelated.edu | <a href="http://marcosammon.com/">Website</a>
