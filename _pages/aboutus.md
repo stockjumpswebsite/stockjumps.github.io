@@ -7,7 +7,8 @@ author_profile: true
 
 CEO's: 
 
-Scott R. Baker  
+Scott R. Baker 
+<img src="ScottRBaker.jpg" alt="Scott R. Baker">
 
 Northwestern University, Kellogg School of Management 
 
