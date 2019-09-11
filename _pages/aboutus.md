@@ -5,8 +5,11 @@ permalink: /aboutus/
 author_profile: true
 ---
 
-![Figure 1](/files/fig1.png)
-<br/><img src='/files/fig1.png'>
+![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
+<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/marco.png'>
+
+
+
 
 ![Figure 1](fig1.png)
 
