@@ -1,5 +1,5 @@
 ---
-layout: archive
+
 title: "About Us"
 permalink: /aboutus/
 author_profile: true
