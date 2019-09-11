@@ -5,7 +5,7 @@ permalink: /aboutus/
 author_profile: true
 ---
 
-![Figure 1](./files/fig1.png)
+![Figure 1](/files/fig1.png)
 ![Figure 1](/files/fig1.png)
 <br/><img src='/files/fig1.png'>
 
@@ -13,9 +13,9 @@ CEO's:
 
 Scott R. Baker
 
-![ScottB](./files/scott.png)
+![ScottB](/files/scott.png)
 ![ScottB](files/scott.png)
-![ScottB](./files/scott.PNG)
+![ScottB](/files/scott.PNG)
 ![ScottB](files/scott.PNG)
 
 ![ScottB](scott.PNG)
