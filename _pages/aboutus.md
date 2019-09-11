@@ -27,6 +27,7 @@ Scott R. Baker
 
 <br/><img src='/images/scott3.png'>
 <br/><img src='/images/scott3.PNG'>
+<br/><img src='/images/500x300.png'>
 
 Northwestern University, Kellogg School of Management 
 
