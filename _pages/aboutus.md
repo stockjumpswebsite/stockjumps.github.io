@@ -19,6 +19,13 @@ Scott R. Baker
 ![ScottB](scott.PNG)
 ![ScottB](scott.png)
 
+![ScottB](scott2.PNG)
+![ScottB](scott2.png)
+
+![ScottB](scott3.PNG)
+![ScottB](scott3.png)
+
+
 Northwestern University, Kellogg School of Management 
 
 s-baker@kellogg.northwestern.edu | <a href="https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx">Website</a>
