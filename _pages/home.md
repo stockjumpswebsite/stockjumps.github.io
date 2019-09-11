@@ -7,7 +7,5 @@ author_profile: true
 Front Page
 
 Add one main figure
-![Figure 1](files/fig1.png)
-
-![ScottB](files/scott.png)
-		
+![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/fig1.png)
+<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/fig1.png'>

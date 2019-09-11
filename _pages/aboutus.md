@@ -5,35 +5,15 @@ permalink: /aboutus/
 author_profile: true
 ---
 
-![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
-<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/marco.png'>
 
-
-
-
-![Figure 1](fig1.png)
 
 CEO's: 
 
 Scott R. Baker
 
-![sb2](/files/scott.png)
-![sb2](files/scott.png)
-![sb2](/files/scott.PNG)
-![sb2](files/scott.PNG)
+<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png'>
+![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/scott.png)
 
-![sb2](scott.PNG)
-![sb2](scott.png)
-
-![sb2](scott2.PNG)
-![sb2](scott2.png)
-
-![sb2](scott3.PNG)
-![sb2](scott3.png)
-
-<br/><img src='/images/scott3.png'>
-<br/><img src='/images/scott3.PNG'>
-<br/><img src='/images/500x300.png'>
 
 Northwestern University, Kellogg School of Management 
 
@@ -43,8 +23,8 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
  
 Nick Bloom
 
-![NickB](./files/nick.png)
-
+<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/nick.png'>
+![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/nick.png)
 
 Stanford University 
 
@@ -56,8 +36,8 @@ Nick Bloom is a Professor of Economics at Stanford University. His research inte
 
 Steven J. Davis
 
-![SteveD](./files/steve.png)
-
+<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png'>
+![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/steve.png)
 
 University of Chicago, Booth School of Business
 
@@ -68,7 +48,8 @@ Steven J. Davis is the William H. Abbott Professor of International Business and
 
 Marco Sammon
 
-![MarcoS](./files/marco.png)
+<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/marco.png'>
+![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
 
 
 PhD Student, Northwestern University, Kellogg School of Management
