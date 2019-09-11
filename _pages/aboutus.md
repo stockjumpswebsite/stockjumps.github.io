@@ -47,7 +47,6 @@ Marco Sammon
 
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
 
-
 PhD Student, Northwestern University, Kellogg School of Management
 
 marco@somethingnorthwesternrelated.edu | <a href="http://marcosammon.com/">Website</a>
@@ -59,6 +58,7 @@ VP's:
 Tasaneeya Viratyosin
 
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png)
+<img src="https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png">
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
