@@ -13,4 +13,4 @@ author_profile: true
 
 <a href="https://www.google.com/slides/about/" target="_blank">Slides</a> 
 
-<a href="files/articles_1.zip" download>Articles (zip)</a>
+<a href="https://github.com/stockjumpswebsite/stockjumps/blob/master/_pages/files/articles_1.zip?raw=true">Articles (zip)</a>
