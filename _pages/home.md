@@ -8,4 +8,3 @@ Front Page
 
 Add one main figure
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/fig1.png)
-<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/fig1.png'>
