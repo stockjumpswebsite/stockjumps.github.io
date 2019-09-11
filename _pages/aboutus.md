@@ -13,19 +13,19 @@ CEO's:
 
 Scott R. Baker
 
-![ScottB](/files/scott.png)
-![ScottB](files/scott.png)
-![ScottB](/files/scott.PNG)
-![ScottB](files/scott.PNG)
+![sb](/files/scott.png)
+![sb](files/scott.png)
+![sb](/files/scott.PNG)
+![sb](files/scott.PNG)
 
-![ScottB](scott.PNG)
-![ScottB](scott.png)
+![sb](scott.PNG)
+![sb](scott.png)
 
-![ScottB](scott2.PNG)
-![ScottB](scott2.png)
+![sb](scott2.PNG)
+![sb](scott2.png)
 
-![ScottB](scott3.PNG)
-![ScottB](scott3.png)
+![sb](scott3.PNG)
+![sb](scott3.png)
 
 <br/><img src='/images/scott3.png'>
 <br/><img src='/images/scott3.PNG'>
