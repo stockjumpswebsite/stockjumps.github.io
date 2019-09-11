@@ -5,6 +5,8 @@ permalink: /aboutus/
 author_profile: true
 ---
 
+![Figure 1](files/fig1.png)
+
 CEO's: 
 
 Scott R. Baker
