@@ -9,7 +9,7 @@ CEO's:
 
 Scott R. Baker
 
-![Scott](files/ScottRBaker.png)
+![ScottB](files/ScottRBaker.png)
 
 
 Northwestern University, Kellogg School of Management 
@@ -20,7 +20,7 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
  
 Nick Bloom
 
-![Nick](files/NickBloom.png)
+![NickB](files/NickBloom.png)
 
 
 Stanford University 
@@ -33,7 +33,7 @@ Nick Bloom is a Professor of Economics at Stanford University. His research inte
 
 Steven J. Davis
 
-![Steve](files/SteveDavis.png)
+![SteveD](files/SteveDavis.png)
 
 
 University of Chicago, Booth School of Business
@@ -45,7 +45,7 @@ Steven J. Davis is the William H. Abbott Professor of International Business and
 
 Marco Sammon
 
-![Marco](files/marco.png)
+![MarcoS](files/marco.png)
 
 
 PhD Student, Northwestern University, Kellogg School of Management
