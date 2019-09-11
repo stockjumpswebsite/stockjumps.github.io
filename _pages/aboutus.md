@@ -58,7 +58,6 @@ VP's:
 Tasaneeya Viratyosin
 
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png)
-<img src="https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png" alt="Tasaneeya">
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
