@@ -11,7 +11,6 @@ CEO's:
 
 Scott R. Baker
 
-<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png'>
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/scott.png)
 
 
@@ -23,7 +22,6 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
  
 Nick Bloom
 
-<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/nick.png'>
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/nick.png)
 
 Stanford University 
@@ -36,7 +34,6 @@ Nick Bloom is a Professor of Economics at Stanford University. His research inte
 
 Steven J. Davis
 
-<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png'>
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/steve.png)
 
 University of Chicago, Booth School of Business
@@ -48,7 +45,6 @@ Steven J. Davis is the William H. Abbott Professor of International Business and
 
 Marco Sammon
 
-<br/><img src='https://stockjumpswebsite.github.io/stockjumps/files/marco.png'>
 ![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
 
 
