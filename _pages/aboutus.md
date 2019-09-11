@@ -6,26 +6,27 @@ author_profile: true
 ---
 
 ![Figure 1](/files/fig1.png)
-![Figure 1](/files/fig1.png)
 <br/><img src='/files/fig1.png'>
+
+![Figure 1](fig1.png)
 
 CEO's: 
 
 Scott R. Baker
 
-![sb](/files/scott.png)
-![sb](files/scott.png)
-![sb](/files/scott.PNG)
-![sb](files/scott.PNG)
+![sb2](/files/scott.png)
+![sb2](files/scott.png)
+![sb2](/files/scott.PNG)
+![sb2](files/scott.PNG)
 
-![sb](scott.PNG)
-![sb](scott.png)
+![sb2](scott.PNG)
+![sb2](scott.png)
 
-![sb](scott2.PNG)
-![sb](scott2.png)
+![sb2](scott2.PNG)
+![sb2](scott2.png)
 
-![sb](scott3.PNG)
-![sb](scott3.png)
+![sb2](scott3.PNG)
+![sb2](scott3.png)
 
 <br/><img src='/images/scott3.png'>
 <br/><img src='/images/scott3.PNG'>
