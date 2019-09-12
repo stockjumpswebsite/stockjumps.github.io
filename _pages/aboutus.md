@@ -11,7 +11,7 @@ CEO's:
 
 Scott R. Baker
 
-![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/scott.png)
+![scott](https://stockjumpswebsite.github.io/stockjumps/files/scott.png)
 
 
 Northwestern University, Kellogg School of Management 
@@ -22,7 +22,7 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
  
 Nick Bloom
 
-![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/nick.png)
+![nick](https://stockjumpswebsite.github.io/stockjumps/files/nick.png)
 
 Stanford University 
 
@@ -34,7 +34,7 @@ Nick Bloom is a Professor of Economics at Stanford University. His research inte
 
 Steven J. Davis
 
-![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/steve.png)
+![steve](https://stockjumpswebsite.github.io/stockjumps/files/steve.png)
 
 University of Chicago, Booth School of Business
 
@@ -45,7 +45,7 @@ Steven J. Davis is the William H. Abbott Professor of International Business and
 
 Marco Sammon
 
-![Figure 1](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
+![marco](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
 
 PhD Student, Northwestern University, Kellogg School of Management
 
@@ -57,8 +57,8 @@ VP's:
 
 Tasaneeya Viratyosin
 
-![f1](https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png) 
-![f2](https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.PNG) 
+![tasaneeya](https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png) 
+
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
