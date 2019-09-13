@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-CEO's: 
+Leadership
 
 Scott R. Baker
 
@@ -53,7 +53,6 @@ marco@somethingnorthwesternrelated.edu | <a href="http://marcosammon.com/">Websi
 
 Marco is a PhD student at Northwestern.
 
-VP's:
 
 Tasaneeya Viratyosin
 
@@ -66,7 +65,7 @@ tasaneeya@somethingpennrelated.edu | <a href="https://www.wharton.upenn.edu/">We
 
 Tasaneeya is a PhD student at UPenn Wharton.
 
-Coders:
+Researchers
 
 TJ
 
