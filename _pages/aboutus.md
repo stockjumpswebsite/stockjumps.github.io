@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Leadership
+<b>Leadership</b>
 
 Scott R. Baker
 
@@ -66,7 +66,7 @@ tasaneeya@somethingpennrelated.edu | <a href="https://www.wharton.upenn.edu/">We
 Tasaneeya is a PhD student at UPenn Wharton.
 
 
-Researchers
+<b>Researchers</b>
 
 TJ
 
