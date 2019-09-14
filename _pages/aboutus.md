@@ -49,7 +49,7 @@ Marco Sammon
 
 PhD Student, Northwestern University, Kellogg School of Management
 
-marco@somethingnorthwesternrelated.edu | <a href="http://marcosammon.com/">Website</a>
+mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a>
 
 Marco is a PhD student at Northwestern.
 
@@ -61,7 +61,7 @@ Tasaneeya Viratyosin
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
-tasaneeya@somethingpennrelated.edu | <a href="https://www.wharton.upenn.edu/">Website</a>
+virat003@morris.umn.edu | <a href="https://www.wharton.upenn.edu/">Website</a>
 
 Tasaneeya is a PhD student at UPenn Wharton.
 
