@@ -3,6 +3,6 @@ permalink: /
 title: ""
 author_profile: true
 ---
-Positive and Negaitve Stock Market Jumps by Year:
+Positive and Negative Stock Market Jumps by Year:
 <a href='https://github.com/stockjumpswebsite/stockjumps/blob/master/_pages/files/test_file.xlsx?raw=true'><img src='https://stockjumpswebsite.github.io/stockjumps/files/fig1.png'></a>
 
