@@ -22,8 +22,7 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
  
 Nick Bloom
 
-![nick](https://stockjumpswebsite.github.io/stockjumps/files/nick.png)
-<img src='https://github.com/stockjumpswebsite/stockjumps/blob/master/_pages/files/NickBloom.png'>
+![nick](https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png)
 Stanford University 
 
 nbloom@stanford.edu | <a href="http://www.stanford.edu/~nbloom/">Website</a> 
