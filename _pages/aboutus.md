@@ -61,15 +61,30 @@ Tasaneeya Viratyosin
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
-virat003@morris.umn.edu | <a href="https://www.wharton.upenn.edu/">Website</a>
+tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a>
 
 Tasaneeya is a PhD student at UPenn Wharton.
 
 
 <b>Researchers</b>
 
-TJ
+TJ Ram
 
-Riley
+Riley Burton
+
+May Thiri Hliang
+
+Jimmy Apfel
+
+Zach Argo
+
+Alex Liang
+
+Kenar Vyas
+
+Meera Desai
+
+
+
 
 etc.
