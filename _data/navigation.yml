@@ -1,14 +1,14 @@
 # main links links  
 main:
-  - title: "Media"
-    url: /media/
-
-  - title: "About Us"
-    url: /aboutus/    
-
   - title: "Research"
-    url: /research/    
+    url: /research/
 
   - title: "Data"
     url: /data/    
+
+  - title: "Media"
+    url: /media/    
+
+  - title: "About Us"
+    url: /aboutus/    
   
