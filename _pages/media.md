@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Seed using media from policy uncertainty
+17 September 2019 - <a href='https://voxeu.org/article/extraordinary-rise-trade-policy-uncertainty'>The extraordinary rise in trade policy uncertainty</a>
 
-17 September 2019 - https://voxeu.org/article/extraordinary-rise-trade-policy-uncertainty 
+17 September 2019 - <a href='https://www.weforum.org/agenda/2019/09/new-index-tracks-trade-uncertainty-globe'>Trade uncertainty hangs over the global economy. This new index explains what that means for you</a>
 
-17 September 2019 - https://www.weforum.org/agenda/2019/09/new-index-tracks-trade-uncertainty-globe 
+9 September 2019 - <a href='https://blogs.imf.org/2019/09/09/new-index-tracks-trade-uncertainty-across-the-globe/'>New Index Tracks Trade Uncertainty Across the Globe</a>
 
-9 September 2019 - https://blogs.imf.org/2019/09/09/new-index-tracks-trade-uncertainty-across-the-globe/ 
+14 August 2019 - <a href='https://www.pbs.org/newshour/show/whats-behind-the-recent-stock-market-volatility'>What's behind the recent stock market volatility?</a> 
 
-14 August 2019 - https://www.pbs.org/newshour/show/whats-behind-the-recent-stock-market-volatility 
-
-22 August 2011 - https://voxeu.org/article/uncertainty-shock-will-cause-recession-evidence-16-previous-episodes 
+22 August 2011 - <a href='https://voxeu.org/article/uncertainty-shock-will-cause-recession-evidence-16-previous-episodes'>The uncertainty shock from the debt disaster will cause a double-dip recession</a> 
