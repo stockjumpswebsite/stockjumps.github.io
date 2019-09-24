@@ -22,7 +22,6 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
  
 Nick Bloom
 
-![nick](https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png)
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png' alt='Nick Bloom' height='200' width='175'>
 
 Stanford University 
@@ -35,7 +34,7 @@ Nick Bloom is a Professor of Economics at Stanford University. His research inte
 
 Steven J. Davis
 
-![steve](https://stockjumpswebsite.github.io/stockjumps/files/steve.png)
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='200' width='175'>
 
 University of Chicago, Booth School of Business
 
@@ -46,7 +45,7 @@ Steven J. Davis is the William H. Abbott Professor of International Business and
 
 Marco Sammon
 
-![marco](https://stockjumpswebsite.github.io/stockjumps/files/marco.png)
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/marco.png' alt='Marco Sammon' height='200' width='175'>
 
 PhD Student, Northwestern University, Kellogg School of Management
 
@@ -57,7 +56,7 @@ Marco is a PhD student at Northwestern.
 
 Tasaneeya Viratyosin
 
-![tasaneeya](https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png) 
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png' alt='Tasaneeya Viratyosin' height='200' width='175'>
 
 
 PhD Student, University of Pennsylvania, Wharton School of Business
