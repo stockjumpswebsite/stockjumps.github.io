@@ -11,7 +11,6 @@ author_profile: true
 
 Scott R. Baker
 
-![scott](https://stockjumpswebsite.github.io/stockjumps/files/scott.png)
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='200' width='175'>
 
 
@@ -24,6 +23,7 @@ Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Manag
 Nick Bloom
 
 ![nick](https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png)
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png' alt='Nick Bloom' height='200' width='175'>
 
 Stanford University 
 
