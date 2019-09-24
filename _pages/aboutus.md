@@ -12,7 +12,7 @@ author_profile: true
 Scott R. Baker
 
 ![scott](https://stockjumpswebsite.github.io/stockjumps/files/scott.png)
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='300' width='200'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='200' width='250'>
 
 
 Northwestern University, Kellogg School of Management 
