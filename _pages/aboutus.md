@@ -69,35 +69,35 @@ Tasaneeya is a PhD student at UPenn Wharton.
 
 TJ Ram
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.jpg' alt='TJ Ram' height='200' width='175' data-rotate='90'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.jpg' alt='TJ Ram' height='200' width='175' style='transform:rotate(90deg);'>
 
 Riley Burton
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.jpg' alt='Riley Burton' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.jpg' alt='Riley Burton' height='200' width='175' style='transform:rotate(90deg);'>
 
 May Thiri Hliang
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/may.jpg' alt='May Thiri Hliang' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/may.jpg' alt='May Thiri Hliang' height='200' width='175' style='transform:rotate(90deg);'>
 
 Jimmy Apfel
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.jpg' alt='Jimmy Apfel' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.jpg' alt='Jimmy Apfel' height='200' width='175' style='transform:rotate(90deg);'>
 
 Zach Argo
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.jpg' alt='Zach Argo' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.jpg' alt='Zach Argo' height='200' width='175' style='transform:rotate(90deg);'>
 
 Alex Liang
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.jpg' alt='Alex Liang' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.jpg' alt='Alex Liang' height='200' width='175' style='transform:rotate(90deg);'>
 
 Kenar Vyas
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.jpg' alt='Kenar Vyas' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.jpg' alt='Kenar Vyas' height='200' width='175' style='transform:rotate(90deg);'>
 
 Meera Desai
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.jpg' alt='Meera Desai' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.jpg' alt='Meera Desai' height='200' width='175' style='transform:rotate(90deg);'>
 
 
 etc.
