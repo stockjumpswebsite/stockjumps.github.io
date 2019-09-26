@@ -71,13 +71,13 @@ TJ Ram
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
 
-TJ Ram is a current student at the University of Southern California.
+TJ Ram is currently a student at the University of Southern California.
 
 Riley Burton
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.png' alt='Riley Burton' height='200' width='175'>
 
-Riley Burton is a current student at Williamette University.
+Riley Burton is currently a student at Williamette University.
 
 May Thiri Hliang
 
@@ -89,29 +89,29 @@ Jimmy Apffel
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.png' alt='Jimmy Apffel' height='200' width='175'>
 
-Jimmy Apffel is a current student at Gonzaga University.
+Jimmy Apffel is currently a student at Gonzaga University.
 
 Zach Argo
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.png' alt='Zach Argo' height='200' width='175'>
 
-Zach Argo is a current student at Stanford University.
+Zach Argo is currently a student at Stanford University.
 
 Alex Liang
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
 
-Alex Liang is a current student at Stanford University.
+Alex Liang is currently a student at Stanford University.
 
 Kenar Vyas
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.png' alt='Kenar Vyas' height='200' width='175'>
 
-Kenar Vyas is a current student at Princeton University.
+Kenar Vyas is currently a student at Princeton University.
 
 Meera Desai
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.png' alt='Meera Desai' height='200' width='175'>
 
-Meera Desai is a current student at Yale University.
+Meera Desai is currently a student at Yale University.
 
