@@ -69,7 +69,7 @@ Tasaneeya is a PhD student at UPenn Wharton.
 
 TJ Ram
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.jpg' alt='TJ Ram' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.jpg' alt='TJ Ram' height='200' width='175' data-rotate='90'>
 
 Riley Burton
 
