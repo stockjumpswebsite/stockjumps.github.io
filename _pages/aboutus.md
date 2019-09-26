@@ -99,5 +99,3 @@ Meera Desai
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.png' alt='Meera Desai' height='200' width='175'>
 
-
-etc.
