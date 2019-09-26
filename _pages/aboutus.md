@@ -73,31 +73,31 @@ TJ Ram
 
 Riley Burton
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.jpg' alt='Riley Burton' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.png' alt='Riley Burton' height='200' width='175'>
 
 May Thiri Hliang
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/may.jpg' alt='May Thiri Hliang' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/may.png' alt='May Thiri Hliang' height='200' width='175'>
 
 Jimmy Apfel
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.jpg' alt='Jimmy Apfel' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.png' alt='Jimmy Apfel' height='200' width='175'>
 
 Zach Argo
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.jpg' alt='Zach Argo' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.png' alt='Zach Argo' height='200' width='175'>
 
 Alex Liang
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.jpg' alt='Alex Liang' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
 
 Kenar Vyas
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.jpg' alt='Kenar Vyas' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.png' alt='Kenar Vyas' height='200' width='175'>
 
 Meera Desai
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.jpg' alt='Meera Desai' height='200' width='175' style='transform:rotate(90deg);'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.png' alt='Meera Desai' height='200' width='175'>
 
 
 etc.
