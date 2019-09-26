@@ -71,7 +71,7 @@ TJ Ram
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
 
-TJ Ram is a current junior at the University of Southern California.
+TJ Ram is a current student at the University of Southern California.
 
 Riley Burton
 
