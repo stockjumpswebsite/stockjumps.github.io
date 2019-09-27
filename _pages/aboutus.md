@@ -117,12 +117,12 @@ Meera Desai is currently a student at Yale University.
 
 One of our coding teams in action, Summer 2014:
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/team2014.png'></a>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/team2014.png'>
 
 One of our coding teams in action, Summer 2016:
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/team2.png'></a>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/team2.png'>
 
 One of our coding teams in action, Summer 2018:
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/team3.png'></a>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/team3.png'>
