@@ -55,7 +55,7 @@ Marco is a PhD student at Northwestern.
 
 Tasaneeya Viratyosin
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/tasaneeya.png' alt='Tasaneeya Viratyosin' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' height='200' width='175'>
 
 
 PhD Student, University of Pennsylvania, Wharton School of Business
