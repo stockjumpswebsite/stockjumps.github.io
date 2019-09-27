@@ -9,24 +9,29 @@ author_profile: true
 
 <a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps_July2019.pdf" target="_blank">Read Our Paper</a> | <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View Our Data</a> | <a href="https://stockjumpswebsite.github.io/stockjumps/files/slidespdf.pdf" target="_blank">View Our Slides</a> | <a href="https://www.dropbox.com/s/sgq7t10c6dboiwc/WSJ_final.zip?dl=0">Download Articles (zip)</a>
 
-To measure policy-related economic uncertainty, we construct an index from three types of underlying components.
 
-<b>News Coverage about Policy-related Economic Uncertainty</b>
+<b>Broad Approach.</b> We train human analysts to read each newspaper article, and classify it into one of 16 categories.
 
-Our first component is an index of search results from 10 large newspapers (USA Today, the Miami Herald, the Chicago Tribune, the Washington Post, the Los Angeles Times, the Boston Globe, the San Francisco Chronicle, the Dallas Morning News, the Houston Chronicle, and the WSJ). To construct the index, we perform monthly searches of each paper for terms related to economic and policy uncertainty. In particular, we search for articles containing the term 'uncertainty' or 'uncertain', the terms 'economic' or 'economy' and one or more of the following terms: 'congress', 'legislation', 'white house', 'regulation', 'federal reserve', or 'deficit'.
+Training coders. Before analysts started coding, they carefully read the audit guide <a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">Read Our Paper</a>, underwent a half-day training session and then coded 50 WSJ training articles. These WSJ training articles had already been coded up by us, enabling us to ensure our auditors were accurately coding (and to address any issues) before they coded the research sample.
 
-To deal with changes over time in the volume of articles for a given paper, we divide the raw count of policy uncertainty articles by the total number of articles in the same paper and month. We then normalize the resulting series for each paper to have a unit standard deviation from January 1985 through December 2009. Next, we sum the normalized values over papers in each month to obtain a multi-paper index. Finally, we re-normalize the multi-paper index to an average value of 100 from January 1985 through December 2009.
+Finding articles. For each newspaper and each day with a market move of more than 2.5%, human readers search the newspaper’s archive for relevant articles published the following day. The readers search the archive on a given date for articles the mention phrases like ‘stock market’, ‘wall street’, ‘S&P’, or ‘Dow Jones’.
 
-With each monthly update, data from the preceding two months may be revised slightly, as well. This is driven by the fact that some online newspapers do not immediately update their online archives with all articles, leading to slightly changing totals for the previous 1-2 months.
+Coding Articles. Readers are assigned to carefully review each article and categorize the article’s attribution of the cause of the stock market movement on the previous day based on the instructions in the audit guide <a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">.
 
-<b>Tax Code Expiration Data</b>
+<b>Data Fields</b>
 
-The second component of our index draws on reports by the Congressional Budget Office (CBO) that compile lists of temporary federal tax code provisions. Temporary tax measures are a source of uncertainty for businesses and households because Congress often extends them at the last minute, undermining stability in and certainty about the tax code.
+Return: From 1926-present, this is the percent change in the CRSP Value-Weighted index.  Before 1926, this is the percent change in Global Financial Data’s DOW Extension.
 
-<b>Economic Forecaster Disagreement</b>
+Coder: Unique identifier for each analyst coding articles.
 
-The third component of our policy-related uncertainty index draws on the Federal Reserve Bank of Philadelphia's Survey of Professional Forecasters. We measure dispersion in the individual-level data for three of the forecast variables directly influenced by government policy: CP, purchases of goods and services by state and local governments, and purchases of goods and services by the federal government. For each series, we look at the quarterly forecasts for one year in the future. We chose these variables because they are directly influenced by monetary policy and fiscal policy actions.
+Primary/Secondary: Causes that are emphasized in the title or sub-title of the article are given more weight, as are causes that are specifically noted to be the primary driver of the day’s large movements. If an article mentions multiple causes but does not clearly denote a primary cause, the readers utilize the order in which the reasons are mentioned or discussed in the article as a tie breaker. 
 
-<b>Constructing our overall policy-related economic uncertainty index</b>
+Ease of Coding: How difficult it was to assign a primary cause to the market movement. The score ranges from 3 (Easy to code) for articles that rapidly and clearly identify the cause of the jumps to 1 (Hard to code) for articles that meander, offer several explanations or are hard to understand.
 
-To construct our overall index of policy-related economy uncertainty, we first normalize each component by its own standard deviation prior to January 2012. We then compute the average value of the components, using weights of 1/2 on our broad news-based policy uncertainty index and 1/6 on each of our other three measures (the tax expirations index, the CPI forecast disagreement measure, and the federal/state/local purchases disagreement measure).
+Journalist Confidence: Confidence with which an article advances an explanation for a given day’s market movements. This ranges from a Confidence score of 3 (high confidence) if the article’s author directly states that the move was driven by a specific factor, to a score of 1 (low confidence) if the author gives multiple potential reasons, or states that investors and analysts were unsure of the reason for a market movement.
+
+Article Title: Coded article’s title.
+
+Clarity: This is an index composed of 4 components (1) Confidence (2) Ease of coding (3) Agreement of primary codings with/across newspapers (4) Share of unknown codings.  We combine these into a ‘clarity index’ by normalizing each measure to a z-score (mean zero and standard deviation one) and averaging and then re-normalizing.
+
+Clarity Date: When clarity index was computed.
