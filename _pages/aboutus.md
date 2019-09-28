@@ -44,7 +44,7 @@ Steven J. Davis is the William H. Abbott Distinguished Service Professor of Int
 
 Marco Sammon
 
-PhD student, Northwestern University, Kellogg School of Management
+Northwestern University, Kellogg School of Management
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='200' width='175'>
 
