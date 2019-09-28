@@ -44,13 +44,15 @@ Steven J. Davis is the William H. Abbott Distinguished Service Professor of Int
 
 Marco Sammon
 
+PhD student, Northwestern University, Kellogg School of Management
+
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='200' width='175'>
 
-PhD Student, Northwestern University, Kellogg School of Management
+Marco Sammon is a 5th year PhD Student at Northwestern University's Kellogg School of Management.  He is interested in understanding how the growth of passive ownership has changed the way information is incorporated into asset prices.
 
 mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a>
 
-Marco is a PhD student at Northwestern.
+
 
 
 Tasaneeya Viratyosin
