@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-<span style="background-color:green;color:red">test</span>
+# <span style="background-color:green;color:white">What Triggers Stock Market Jumps?</span>
 
 We assess large daily stock market moves in the United States and a dozen other countries based on next-day newspaper accounts. We record and classify the developments that triggered each move and their geographic origin, as perceived by journalists. We also quantify the clarity of journalist perceptions about the reason for the move.
 
