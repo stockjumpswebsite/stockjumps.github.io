@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-# <span style="background-color:lightgreen;color:white">What Triggers Stock Market Jumps?</span>
+# <span style="background-color:#44ACB0;color:white">What Triggers Stock Market Jumps?</span>
 
 We assess large stock market moves in the United States and a dozen other countries based on newspaper accounts. We classify the jumps by their trigger, their geographic origin and the clarity of journalist perceptions about the reason for the move.
 
