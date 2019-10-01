@@ -33,6 +33,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>High</td>
       <td>Stocks, Bond Yields Fall Sharply on Trade Tensions</td>
       <td>Wall Street Journal</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>8/14/2019</td>
@@ -43,6 +44,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>High</td>
       <td>Dow Sheds 800 in Biggest Drop of Year</td>
       <td>Wall Street Journal</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>8/5/2019</td>
@@ -53,6 +55,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>High</td>
       <td>Stocks Fall Sharply as Yuan Reels and Trump Jabs at China</td>
       <td>Wall Street Journal</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>6/4/2019</td>
@@ -63,6 +66,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>High</td>
       <td>Stocks Close Sharply Higher as Fed Hints at Possible Rate Cut</td>
       <td>Wall Street Journal</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>5/13/2019</td>
@@ -73,6 +77,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>High</td>
       <td>Stocks Post Their Worst Day in Months on Trade Anxiety</td>
       <td>Wall Street Journal</td>
+      <td>N/A</td>
     </tr>
   </table>
 </div>
