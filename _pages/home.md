@@ -13,6 +13,16 @@ We assess large stock market moves in the United States and a dozen other countr
 <div class="codings">
   <table>
     <th>Date</th>
+    <th>Return</th>
+    <th>Coder</th>
+    <th>Primary Category</th>
+    <th>Seconday Category</th>
+    <th>Ease of Coding</th>
+    <th>Journalist Confidence</th>
+    <th>Article Title</th>
+    <th>Newspaper</th>
+    <th>Clarity</th>
+    <th>Article Link/Location</th>
     <tr>
       <td>8/23/2019</td>
     </tr>
@@ -44,15 +54,7 @@ We assess large stock market moves in the United States and a dozen other countr
     <tr>
       <td>-2.41%</td>
     </tr>
-    <th>Coder</th>
-    <th>Primary Category</th>
-    <th>Seconday Category</th>
-    <th>Ease of Coding</th>
-    <th>Journalist Confidence</th>
-    <th>Article Title</th>
-    <th>Newspaper</th>
-    <th>Clarity</th>
-    <th>Article Link/Location</th>
+    
   </table>
 </div>
 
