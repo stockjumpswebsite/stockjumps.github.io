@@ -31,6 +31,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>None</td>
       <td>Easy</td>
       <td>High</td>
+      <td>Stocks, Bond Yields Fall Sharply on Trade Tensions</td>
     </tr>
     <tr>
       <td>8/14/2019</td>
@@ -39,6 +40,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>None</td>
       <td>Easy</td>
       <td>High</td>
+      <td>Dow Sheds 800 in Biggest Drop of Year</td>
     </tr>
     <tr>
       <td>8/5/2019</td>
@@ -47,6 +49,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>None</td>
       <td>Easy</td>
       <td>High</td>
+      <td>Stocks Fall Sharply as Yuan Reels and Trump Jabs at China</td>
     </tr>
     <tr>
       <td>6/4/2019</td>
@@ -55,6 +58,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>None</td>
       <td>Easy</td>
       <td>High</td>
+      <td>Stocks Close Sharply Higher as Fed Hints at Possible Rate Cut</td>
     </tr>
     <tr>
       <td>5/13/2019</td>
@@ -63,6 +67,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>None</td>
       <td>Medium</td>
       <td>High</td>
+      <td>Stocks Post Their Worst Day in Months on Trade Anxiety</td>
     </tr>
   </table>
 </div>
