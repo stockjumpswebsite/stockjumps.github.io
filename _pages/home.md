@@ -16,6 +16,18 @@ We assess large stock market moves in the United States and a dozen other countr
     <tr>
       <td>8/23/2019</td>
     </tr>
+    <tr>
+      <td>8/14/2019</td>
+    </tr>
+    <tr>
+      <td>8/5/2019</td>
+    </tr>
+    <tr>
+      <td>6/4/2019</td>
+    </tr>
+    <tr>
+      <td>5/13/2019</td>
+    </tr>
     <th>Return</th>
     <th>Coder</th>
     <th>Primary Category</th>
