@@ -12,39 +12,17 @@ We assess large stock market moves in the United States and a dozen other countr
 
 <div class="codings">
   <table>
-    <tr>
-      <th>Date</th>
-    </tr>
-    <tr>
-      <th>Return</th>
-    </tr>
-    <tr>
-      <th>Coder</th>
-    </tr>
-    <tr>
-      <th>Primary Category</th>
-    </tr>
-    <tr>
-      <th>Seconday Category</th>
-    </tr>
-    <tr>
-      <th>Ease of Coding</th>
-    </tr>
-    <tr>
-      <th>Journalist Confidence</th>
-    </tr>
-    <tr>
-      <th>Article Title</th>
-    </tr>
-    <tr>
-      <th>Newspaper</th>
-    </tr>
-    <tr>
-      <th>Clarity</th>
-    </tr>
-    <tr>
-      <th>Article Link/Location</th>
-    </tr>
+    <th>Date</th>
+    <th>Return</th>
+    <th>Coder</th>
+    <th>Primary Category</th>
+    <th>Seconday Category</th>
+    <th>Ease of Coding</th>
+    <th>Journalist Confidence</th>
+    <th>Article Title</th>
+    <th>Newspaper</th>
+    <th>Clarity</th>
+    <th>Article Link/Location</th>
   </table>
 </div>
 
