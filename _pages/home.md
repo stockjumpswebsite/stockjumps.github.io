@@ -13,6 +13,7 @@ We assess large stock market moves in the United States and a dozen other countr
 <div class="codings">
   <table>
     <th>Date</th>
+    <td>8/23/2019</td>
     <th>Return</th>
     <th>Coder</th>
     <th>Primary Category</th>
