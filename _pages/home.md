@@ -17,6 +17,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <th>Return</th>
       <th>Primary Category</th>
       <th>Seconday Category</th>
+      <th>Geographic Origin</th>
     </tr>
     <tr>
       <td>8/23/2019</td>
