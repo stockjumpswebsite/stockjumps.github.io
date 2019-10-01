@@ -29,6 +29,21 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>5/13/2019</td>
     </tr>
     <th>Return</th>
+    <tr>
+      <td>-2.59%</td>
+    </tr>
+    <tr>
+      <td>-2.93%</td>
+    </tr>
+    <tr>
+      <td>-2.98%</td>
+    </tr>
+    <tr>
+      <td>2.14%</td>
+    </tr>
+    <tr>
+      <td>-2.41%</td>
+    </tr>
     <th>Coder</th>
     <th>Primary Category</th>
     <th>Seconday Category</th>
