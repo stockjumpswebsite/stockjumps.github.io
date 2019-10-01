@@ -28,22 +28,27 @@ We assess large stock market moves in the United States and a dozen other countr
     <tr>
       <td>8/23/2019</td>
       <td>-2.59%</td>
+      <td>International Trade Policy</td>
     </tr>
     <tr>
       <td>8/14/2019</td>
       <td>-2.93%</td>
+      <td>Macroeconomic News & Outlook</td>
     </tr>
     <tr>
       <td>8/5/2019</td>
       <td>-2.98%</td>
+      <td>International Trade Policy</td>
     </tr>
     <tr>
       <td>6/4/2019</td>
       <td>2.14%</td>
+      <td>Monetary Policy & Central Banking</td>
     </tr>
     <tr>
       <td>5/13/2019</td>
       <td>-2.41%</td>
+      <td>International Trade Policy</td>
     </tr>
   </table>
 </div>
