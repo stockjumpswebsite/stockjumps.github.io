@@ -37,11 +37,13 @@ Nick Bloom is a Professor of Economics at Stanford University. His research inte
 
 Steven J. Davis
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='200' width='175'>
 
 University of Chicago, Booth School of Business
 
-steve.davis@chicagobooth.edu | <a href="https://www.chicagobooth.edu/faculty/directory/d/steven-j-davis">Website</a> 
+steve.davis@chicagobooth.edu
+
+<a href="https://www.chicagobooth.edu/faculty/directory/d/steven-j-davis">Website</a>
 
 Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. He is an Elected Fellow of the Society of Labor Economists, advisor to the U.S. Congressional Budget Office, consultant to the Federal Reserve Bank of Atlanta, senior adviser to the Brookings Papers on Economic Activity, past editor of the American Economic Journal: Macroeconomics, Research Associate of the NBER and Senior Fellow, Asian Bureau of Finance and Economics Research. Davis previously served as faculty dean at the Booth School. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy. He holds M.A. and PhD degrees in Economics from Brown University.
 
@@ -49,7 +51,7 @@ Marco Sammon
 
 Northwestern University, Kellogg School of Management
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='200' width='175'>
 
 Marco Sammon is a 5th year PhD Student at Northwestern University's Kellogg School of Management.  He is interested in understanding how the growth of passive ownership has changed the way information is incorporated into asset prices.
 
@@ -60,8 +62,7 @@ mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a>
 
 Tasaneeya Viratyosin
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' height='200' width='175'>
-
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' height='200' width='175'>
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
@@ -74,49 +75,49 @@ Tasaneeya is a PhD student at UPenn Wharton.
 
 TJ Ram
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
 
 TJ Ram is currently a student at the University of Southern California.
 
 Riley Burton
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.png' alt='Riley Burton' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/riley.png' alt='Riley Burton' height='200' width='175'>
 
 Riley Burton is currently a student at Williamette University.
 
 May Thiri Hliang
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/may.png' alt='May Thiri Hliang' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/may.png' alt='May Thiri Hliang' height='200' width='175'>
 
 May Hliang is a recent graduate of Stanford University and currently works at Oliver Wyman.
 
 Jimmy Apffel
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.png' alt='Jimmy Apffel' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.png' alt='Jimmy Apffel' height='200' width='175'>
 
 Jimmy Apffel is currently a student at Gonzaga University.
 
 Zach Argo
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.png' alt='Zach Argo' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/zach.png' alt='Zach Argo' height='200' width='175'>
 
 Zach Argo is currently a student at Stanford University.
 
 Alex Liang
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
 
 Alex Liang is currently a junior and varsity swimmer at Stanford University majoring in Economics.
 
 Kenar Vyas
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.png' alt='Kenar Vyas' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.png' alt='Kenar Vyas' height='200' width='175'>
 
 Kenar Vyas is currently a student at Princeton University.
 
 Meera Desai
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera_desai.jpg' alt='Meera Desai' height='200' width='175'>
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/meera_desai.jpg' alt='Meera Desai' height='200' width='175'>
 
 Meera Desai is currently an undergraduate student at Stanford University. Meera is the creator of AwesomeMathGirls.org and qualified for many national and international math competitions including USA Mathematical Olympiad and Mathematical Olympiad Program.
 
