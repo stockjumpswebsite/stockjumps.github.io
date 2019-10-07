@@ -68,7 +68,7 @@ tviratyo@wharton.upenn.edu
 
 <a href="https://www.wharton.upenn.edu/">Website</a>
 
-Tasaneeya Viratyosin is a PhD student at UPenn Wharton.
+Tasaneeya Viratyosin is a PhD student at UPenn Wharton. 
 
 
 <h1><b>Researchers</b></h1>
