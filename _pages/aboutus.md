@@ -34,7 +34,6 @@ nbloom@stanford.edu
 Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. He also works on understanding differences in management and organizational practices across firms and countries. He previously worked as a research economist at the Institute for Fiscal Studies, a policy advisor at HM Treasury and as a management consultant at McKinsey & Company. He is a graduate of Cambridge University, with a MPhil from Oxford University, and a PhD from University College London.  
 
 
-
 Steven J. Davis
 
 <img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='200' width='175'>
@@ -69,7 +68,7 @@ tviratyo@wharton.upenn.edu
 
 <a href="https://www.wharton.upenn.edu/">Website</a>
 
-Tasaneeya is a PhD student at UPenn Wharton.
+Tasaneeya Viratyosin is a PhD student at UPenn Wharton.
 
 
 <h1><b>Researchers</b></h1>
