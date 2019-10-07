@@ -112,7 +112,7 @@ Kenar Vyas is currently a student at Princeton University.
 
 Meera Desai
 
-<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera.png' alt='Meera Desai' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera_desai.jpg' alt='Meera Desai' height='200' width='175'>
 
 Meera Desai is currently an undergraduate student at Stanford University. Meera is the creator of AwesomeMathGirls.org and qualified for many national and international math competitions including USA Mathematical Olympiad and Mathematical Olympiad Program.
 
