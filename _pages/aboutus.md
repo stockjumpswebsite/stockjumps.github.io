@@ -71,9 +71,12 @@ tviratyo@wharton.upenn.edu
 
 Tasaneeya is a PhD student at UPenn Wharton.
 
+
+<h1><b>Researchers</b></h1>
 TJ Ram
 
 <img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
+
 TJ Ram is currently a student at the University of Southern California.
 
 Riley Burton
