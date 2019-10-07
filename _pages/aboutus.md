@@ -102,7 +102,7 @@ Alex Liang
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
 
-Alex Liang is currently a student at Stanford University.
+Alex Liang is currently a junior and varsity swimmer at Stanford University majoring in Economics.
 
 Kenar Vyas
 
