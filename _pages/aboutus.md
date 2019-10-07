@@ -53,9 +53,13 @@ Northwestern University, Kellogg School of Management
 
 <img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='200' width='175'>
 
+mcsammon@gmail.com
+
+<a href="http://marcosammon.com/">Website</a>
+
 Marco Sammon is a 5th year PhD Student at Northwestern University's Kellogg School of Management.  He is interested in understanding how the growth of passive ownership has changed the way information is incorporated into asset prices.
 
-mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a>
+
 
 
 
@@ -66,7 +70,9 @@ Tasaneeya Viratyosin
 
 PhD Student, University of Pennsylvania, Wharton School of Business
 
-tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a>
+tviratyo@wharton.upenn.edu
+
+<a href="https://www.wharton.upenn.edu/">Website</a>
 
 Tasaneeya is a PhD student at UPenn Wharton.
 
