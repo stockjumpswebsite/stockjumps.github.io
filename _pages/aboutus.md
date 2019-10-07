@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<h1><b>Leadership</b></h1>
+<h2><b>Leadership</b></h2>
 Scott R. Baker
 
 <img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='200' width='175'>
@@ -71,52 +71,52 @@ tviratyo@wharton.upenn.edu
 Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.
 
 
-<h1><b>Researchers</b></h1>
+<h2><b>Researchers</b></h2>
 TJ Ram
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
 
 TJ Ram is currently a student at the University of Southern California.
 
 Riley Burton
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/riley.png' alt='Riley Burton' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/riley.png' alt='Riley Burton' height='200' width='175'>
 
 Riley Burton is currently a student at Williamette University.
 
 May Thiri Hliang
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/may.png' alt='May Thiri Hliang' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/may.png' alt='May Thiri Hliang' height='200' width='175'>
 
 May Hliang is a recent graduate of Stanford University and currently works at Oliver Wyman.
 
 Jimmy Apffel
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.png' alt='Jimmy Apffel' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/jimmy.png' alt='Jimmy Apffel' height='200' width='175'>
 
 Jimmy Apffel is currently a student at Gonzaga University.
 
 Zach Argo
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/zach.png' alt='Zach Argo' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/zach.png' alt='Zach Argo' height='200' width='175'>
 
 Zach Argo is currently a student at Stanford University.
 
 Alex Liang
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/alex.png' alt='Alex Liang' height='200' width='175'>
 
 Alex Liang is currently a junior and varsity swimmer at Stanford University majoring in Economics.
 
 Kenar Vyas
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.png' alt='Kenar Vyas' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/kenar.png' alt='Kenar Vyas' height='200' width='175'>
 
 Kenar Vyas is currently a student at Princeton University.
 
 Meera Desai
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/meera_desai.jpg' alt='Meera Desai' height='200' width='175'>
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/meera_desai.jpg' alt='Meera Desai' height='200' width='175'>
 
 Meera Desai is currently an undergraduate student at Stanford University. Meera is the creator of AwesomeMathGirls.org and qualified for many national and international math competitions including USA Mathematical Olympiad and Mathematical Olympiad Program.
 
