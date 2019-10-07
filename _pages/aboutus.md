@@ -68,7 +68,7 @@ tviratyo@wharton.upenn.edu
 
 <a href="https://www.wharton.upenn.edu/">Website</a>
 
-Tasaneeya Viratyosin is a PhD student at UPenn Wharton. 
+Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.
 
 
 <h1><b>Researchers</b></h1>
