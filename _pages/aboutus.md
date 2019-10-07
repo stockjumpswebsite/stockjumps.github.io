@@ -49,20 +49,15 @@ Steven J. Davis is the William H. Abbott Distinguished Service Professor of Int
 
 Marco Sammon
 
-Northwestern University, Kellogg School of Management
-
 <img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='200' width='175'>
+
+Northwestern University, Kellogg School of Management
 
 mcsammon@gmail.com
 
 <a href="http://marcosammon.com/">Website</a>
 
 Marco Sammon is a 5th year PhD Student at Northwestern University's Kellogg School of Management.  He is interested in understanding how the growth of passive ownership has changed the way information is incorporated into asset prices.
-
-
-
-
-
 
 Tasaneeya Viratyosin
 
@@ -82,7 +77,6 @@ Tasaneeya is a PhD student at UPenn Wharton.
 TJ Ram
 
 <img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tj.png' alt='TJ Ram' height='200' width='175'>
-
 TJ Ram is currently a student at the University of Southern California.
 
 Riley Burton
