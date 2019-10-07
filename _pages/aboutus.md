@@ -10,7 +10,7 @@ author_profile: true
 <h1><b>Leadership</b></h1>
 Scott R. Baker
 
-<img style='float:left;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='200' width='175'>
+<img style='float:left; margin-right:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='200' width='175'>
 
 Northwestern University, Kellogg School of Management
 
