@@ -120,6 +120,12 @@ Kenar Vyas is currently a student at Princeton University.
 
 Meera Desai is currently an undergraduate student at Stanford University. Meera is the creator of AwesomeMathGirls.org and qualified for many national and international math competitions including USA Mathematical Olympiad and Mathematical Olympiad Program.
 
+<b>Tyler Staggs</b>
+
+<img src='https://stockjumpswebsite.github.io/stockjumps/files/tyler.jpg' alt='Tyler Staggs' height='200' width='175'>
+
+Tyler Staggs is a sophomore at Stanford University majoring in Economics with minors in Classics and Data Science. Tyler graduated from Harvard-Westlake School in 2016. Among other work, he has gained experience from internships at VideoAmp, a late-stage, ad-tech startup and Vejo, a personalized nutrition company. In his free time, he enjoys playing basketball, skiing, and pickelball.
+
 One of our coding teams in action, Summer 2014:
 
 <img src='https://stockjumpswebsite.github.io/stockjumps/files/team2014.png'>
