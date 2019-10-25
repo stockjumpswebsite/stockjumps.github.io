@@ -21,39 +21,39 @@ We assess large stock market moves in the United States and a dozen other countr
       <th>Clarity</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>8/23/2019</td>
+      <td>-2.59%</td>
+      <td>international trade policy</td>
+      <td>Wall Street Journal</td>
+      <td>-1</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>8/14/2019</td>
+      <td>-2.93%</td>
+      <td>macroeconomic news & outlook</td>
+      <td>Wall Street Journal</td>
+      <td>-1</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>8/5/2019</td>
+      <td>-2.98%</td>
+      <td>international trade policy</td>
+      <td>Wall Street Journal</td>
+      <td>-1</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1/4/2019</td>
+      <td>3.43%</td>
+      <td>macroeconomic news & outlook</td>
+      <td>Wall Street Journal</td>
+      <td>-1</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>12/26/2018</td>
+      <td>4.96%</td>
+      <td>unknown & no explanation</td>
+      <td>Wall Street Journal</td>
+      <td>-1</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
