@@ -11,7 +11,7 @@ author_profile: true
 
  <b>Scott R. Baker</b>
 
- <img style='float:left;margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='225' width='195'>
+ <img style='float:left;margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='250' width='215'>
 <p>Northwestern University, Kellogg School of Management</p>
 <p>s-baker@kellogg.northwestern.edu | <a href="https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx">Website</a></p> 
 <p>Scott Ross Baker is an Associate Professor of Finance at Kellogg School of Management at Northwestern University. His research is concentrated in empirical finance and macroeconomics. Recent work examines the impact of household leverage and credit constraints in driving sensitivity to both income and asset shocks during the Great Recession. Scott joined the Finance Department at Northwestern's Kellogg School of Management in July 2014. He was born and raised in San Diego, California and received B.A.'s in Economics and Political Science from the University of California, Berkeley in 2007. He received a Ph.D. in Economics from Stanford University in June 2014.</p>
