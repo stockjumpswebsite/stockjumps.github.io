@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-<div style="position:absolute;top:50px;left:200px;">
+<div style="position:absolute;top:200px;left:200px;">
   <p>We assess large stock market moves in the United States and a dozen other countries based on newspaper accounts. We classify the jumps by their trigger, their geographic origin and the clarity of journalist perceptions about the reason for the move.</p>
 </div>
 
