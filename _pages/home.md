@@ -10,7 +10,7 @@ We assess large stock market moves in the United States and a dozen other countr
     <a href='https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246'><img src='https://stockjumpswebsite.github.io/stockjumps/files/fig1v2.png'></a> 
   </div>
 
-<div style="position:absolute;top:200px;left:150px;height:100px;width:200px;">
+<div style="position:absolute;top:200px;left:150px;height:100px;width:300px;">
   <h2>Our Five Most Recent Codings</h2>
   <table>
     <tr>
