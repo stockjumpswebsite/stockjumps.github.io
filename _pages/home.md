@@ -12,7 +12,7 @@ author_profile: true
     <a href='https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246'><img src='https://stockjumpswebsite.github.io/stockjumps/files/fig1v2.png'></a> 
   </div>
 
-<div style="position:absolute;top:220px;left:150px;height:100px;width:300px;">
+<div style="position:absolute;top:215px;left:150px;height:100px;width:300px;">
   <h3>Our Five Most Recent Codings</h3>
   <table>
     <tr>
