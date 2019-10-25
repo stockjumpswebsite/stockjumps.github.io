@@ -11,7 +11,7 @@ We assess large stock market moves in the United States and a dozen other countr
   </div>
 
 <div style="position:absolute;top:200px;left:150px;height:100px;width:300px;">
-  <h2>Our Five Most Recent Codings</h2>
+  <h4>Our Five Most Recent Codings</h4>
   <table>
     <tr>
       <th>Date</th>
