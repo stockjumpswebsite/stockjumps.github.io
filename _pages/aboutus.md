@@ -19,7 +19,7 @@ author_profile: true
 
 <b>Nick Bloom</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png' alt='Nick Bloom' height='275' width='230'>
+<img style='float:left; margin-right:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png' alt='Nick Bloom' height='275' width='230'>
 <p>Stanford University</p>
 <p>nbloom@stanford.edu | <a href="http://www.stanford.edu/~nbloom/">Website</a></p>
 <p>Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. He also works on understanding differences in management and organizational practices across firms and countries. He previously worked as a research economist at the Institute for Fiscal Studies, a policy advisor at HM Treasury and as a management consultant at McKinsey & Company. He is a graduate of Cambridge University, with a MPhil from Oxford University, and a PhD from University College London.</p>  
