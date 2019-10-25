@@ -13,7 +13,7 @@ author_profile: true
 <div style="position:absolute;top:215px;left:150px;height:100px;width:300px;">
   <h3>Our Five Most Recent Codings</h3>
   <table>
-    <thead style="border-bottom:1px;">
+    <thead>
       <tr>
         <th>Date</th>
         <th>Return</th>
