@@ -23,35 +23,35 @@ We assess large stock market moves in the United States and a dozen other countr
     <tr>
       <td>8/23/2019</td>
       <td>-2.59%</td>
-      <td>international trade policy</td>
+      <td>International Trade Policy</td>
       <td>Wall Street Journal</td>
       <td>-1</td>
     </tr>
     <tr>
       <td>8/14/2019</td>
       <td>-2.93%</td>
-      <td>macroeconomic news & outlook</td>
+      <td>Macroeconomic News & Outlook</td>
       <td>Wall Street Journal</td>
       <td>-1</td>
     </tr>
     <tr>
       <td>8/5/2019</td>
       <td>-2.98%</td>
-      <td>international trade policy</td>
+      <td>International Trade Policy</td>
       <td>Wall Street Journal</td>
       <td>-1</td>
     </tr>
     <tr>
       <td>1/4/2019</td>
       <td>3.43%</td>
-      <td>macroeconomic news & outlook</td>
+      <td>Macroeconomic News & Outlook</td>
       <td>Wall Street Journal</td>
       <td>-1</td>
     </tr>
     <tr>
       <td>12/26/2018</td>
       <td>4.96%</td>
-      <td>unknown & no explanation</td>
+      <td>Unknown & No Explanation</td>
       <td>Wall Street Journal</td>
       <td>-1</td>
     </tr>
