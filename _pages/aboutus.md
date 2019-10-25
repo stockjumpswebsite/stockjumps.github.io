@@ -28,7 +28,7 @@ author_profile: true
  
 <h3><b>Steven J. Davis</b></h3>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='285' width='240'>
+<img style='float:left; margin-right:15px; margin-bottom:35px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='285' width='240'>
 <p>University of Chicago, Booth School of Business</p>
 <p>steve.davis@chicagobooth.edu | <a href="https://www.chicagobooth.edu/faculty/directory/d/steven-j-davis">Website</a></p>
 <p>Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. He is an Elected Fellow of the Society of Labor Economists, advisor to the U.S. Congressional Budget Office, consultant to the Federal Reserve Bank of Atlanta, senior adviser to the Brookings Papers on Economic Activity, past editor of the American Economic Journal: Macroeconomics, Research Associate of the NBER and Senior Fellow, Asian Bureau of Finance and Economics Research. Davis previously served as faculty dean at the Booth School. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy. He holds M.A. and PhD degrees in Economics from Brown University.</p><br/>
