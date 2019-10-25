@@ -13,13 +13,15 @@ author_profile: true
 <div style="position:absolute;top:215px;left:150px;height:100px;width:300px;">
   <h3>Our Five Most Recent Codings</h3>
   <table>
-    <tr>
-      <th>Date</th>
-      <th>Return</th>
-      <th>Primary Category</th>
-      <th>Newspaper</th>
-      <th>Clarity</th>
-    </tr>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Return</th>
+        <th>Primary Category</th>
+        <th>Newspaper</th>
+        <th>Clarity</th>
+      </tr>
+    </thead>
     <tr>
       <td>8/23/2019</td>
       <td>-2.59%</td>
