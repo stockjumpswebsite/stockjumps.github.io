@@ -53,7 +53,7 @@ We assess large stock market moves in the United States and a dozen other countr
       <td>4.96%</td>
       <td>Unknown & No Explanation</td>
       <td>Wall Street Journal</td>
-      <td>-1</td>
+      <td>-0.036</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
