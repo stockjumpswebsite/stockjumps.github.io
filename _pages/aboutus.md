@@ -25,17 +25,13 @@ author_profile: true
 <p>Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. He also works on understanding differences in management and organizational practices across firms and countries. He previously worked as a research economist at the Institute for Fiscal Studies, a policy advisor at HM Treasury and as a management consultant at McKinsey & Company. He is a graduate of Cambridge University, with a MPhil from Oxford University, and a PhD from University College London.</p>  
 
 
+
 <b>Steven J. Davis</b>
 
-<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='200' width='175'>
-
-University of Chicago, Booth School of Business
-
-steve.davis@chicagobooth.edu
-
-<a href="https://www.chicagobooth.edu/faculty/directory/d/steven-j-davis">Website</a>
-
-Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. He is an Elected Fellow of the Society of Labor Economists, advisor to the U.S. Congressional Budget Office, consultant to the Federal Reserve Bank of Atlanta, senior adviser to the Brookings Papers on Economic Activity, past editor of the American Economic Journal: Macroeconomics, Research Associate of the NBER and Senior Fellow, Asian Bureau of Finance and Economics Research. Davis previously served as faculty dean at the Booth School. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy. He holds M.A. and PhD degrees in Economics from Brown University.
+<img style='float:left; margin-right:5px; margin-bottom:5px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='295' width='250'>
+<p>University of Chicago, Booth School of Business</p>
+<p>steve.davis@chicagobooth.edu | <a href="https://www.chicagobooth.edu/faculty/directory/d/steven-j-davis">Website</a></p>
+<p>Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. He is an Elected Fellow of the Society of Labor Economists, advisor to the U.S. Congressional Budget Office, consultant to the Federal Reserve Bank of Atlanta, senior adviser to the Brookings Papers on Economic Activity, past editor of the American Economic Journal: Macroeconomics, Research Associate of the NBER and Senior Fellow, Asian Bureau of Finance and Economics Research. Davis previously served as faculty dean at the Booth School. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy. He holds M.A. and PhD degrees in Economics from Brown University.</p>
 
 <b>Marco Sammon</b>
 
