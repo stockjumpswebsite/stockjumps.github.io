@@ -18,7 +18,6 @@ author_profile: true
         <th>Date</th>
         <th>Return</th>
         <th>Primary Category</th>
-        <th>Newspaper</th>
         <th>Clarity</th>
       </tr>
     </thead>
@@ -26,35 +25,30 @@ author_profile: true
       <td>8/23/2019</td>
       <td>-2.59%</td>
       <td>International Trade Policy</td>
-      <td>Wall Street Journal</td>
       <td>1.679</td>
     </tr>
     <tr>
       <td>8/14/2019</td>
       <td>-2.93%</td>
       <td>Macroeconomic News & Outlook</td>
-      <td>Wall Street Journal</td>
       <td>0.733</td>
     </tr>
     <tr>
       <td>8/5/2019</td>
       <td>-2.98%</td>
       <td>International Trade Policy</td>
-      <td>Wall Street Journal</td>
       <td>1.484</td>
     </tr>
     <tr>
       <td>1/4/2019</td>
       <td>3.43%</td>
       <td>Macroeconomic News & Outlook</td>
-      <td>Wall Street Journal</td>
       <td>1.679</td>
     </tr>
     <tr>
       <td>12/26/2018</td>
       <td>4.96%</td>
       <td>Unknown & No Explanation</td>
-      <td>Wall Street Journal</td>
       <td>0.038</td>
     </tr>
   </table>
