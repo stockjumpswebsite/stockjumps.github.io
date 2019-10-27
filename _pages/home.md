@@ -17,7 +17,7 @@ author_profile: true
       <tr>
         <th>Date</th>
         <th>Return</th>
-        <th>Primary Category</th>
+        <th>Primary Category                    </th>
         <th>Clarity</th>
       </tr>
     </thead>
