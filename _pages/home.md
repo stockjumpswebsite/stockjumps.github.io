@@ -6,8 +6,6 @@ author_profile: true
 
 <p>We assess large stock market moves in the United States and a dozen other countries based on newspaper accounts. We classify the jumps by their trigger, their geographic origin and the clarity of journalist perceptions about the reason for the move.</p>
 
-<a href="http://policyuncertainty.com/media/BakerBloomDavis_Kellogg%20FINC%20Research%20Fellow%202020.pdf" target="_blank">NEW (HIRING): We are hiring a fulltime pre-doctoral research assistant. Please apply using the linked application.</a>
-
 <h3>Our Five Most Recent Codings</h3>
 <table>
   <thead>
