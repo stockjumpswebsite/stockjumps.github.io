@@ -17,6 +17,12 @@ author_profile: true
     </tr>
   </thead>
     <tr>
+      <td>2/24/2020</td>
+      <td>-3.35%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td>1.679</td>
+    </tr>
+    <tr>
       <td>8/23/2019</td>
       <td>-2.59%</td>
       <td>International Trade Policy</td>
@@ -39,12 +45,6 @@ author_profile: true
       <td>3.43%</td>
       <td>Macroeconomic News & Outlook</td>
       <td>1.679</td>
-    </tr>
-    <tr>
-      <td>12/26/2018</td>
-      <td>4.96%</td>
-      <td>Unknown & No Explanation</td>
-      <td>0.038</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
