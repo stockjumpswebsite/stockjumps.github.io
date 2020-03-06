@@ -17,34 +17,34 @@ author_profile: true
     </tr>
   </thead>
       <tr>
+      <td>3/5/2020</td>
+      <td>-3.34%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td> 1.445 </td>
+    </tr>
+    <tr>
+      <td>3/4/2020</td>
+      <td>4.22%</td>
+      <td>Elections and Political Transitions</td>
+      <td>1.289</td>
+    </tr>
+    <tr>
+      <td>3/3/2020</td>
+      <td>-2.81%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td>-0.249</td>
+    </tr>
+      <tr>
       <td>3/2/2020</td>
       <td>4.60%</td>
       <td>Monetary Policy</td>
-      <td>1.42</td>
+      <td>1.423</td>
     </tr>
       <tr>
       <td>2/27/2020</td>
       <td>-4.42%</td>
       <td>Other-Specify (Coronavirus)</td>
       <td> 1.679 </td>
-    </tr>
-    <tr>
-      <td>2/25/2020</td>
-      <td>-3.03%</td>
-      <td>Other-Specify (Coronavirus)</td>
-      <td> 1.679 </td>
-    </tr>
-    <tr>
-      <td>2/24/2020</td>
-      <td>-3.35%</td>
-      <td>Other-Specify (Coronavirus)</td>
-      <td>1.679</td>
-    </tr>
-    <tr>
-      <td>8/23/2019</td>
-      <td>-2.59%</td>
-      <td>International Trade Policy</td>
-      <td>1.679</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
