@@ -16,6 +16,12 @@ author_profile: true
       <th>Clarity</th>
     </tr>
   </thead>
+        <tr>
+      <td>3/9/2020</td>
+      <td>-7.60%</td>
+      <td>Commodities</td>
+      <td> 1.148</td>
+    </tr>
       <tr>
       <td>3/5/2020</td>
       <td>-3.34%</td>
@@ -40,12 +46,7 @@ author_profile: true
       <td>Monetary Policy</td>
       <td>1.423</td>
     </tr>
-      <tr>
-      <td>2/27/2020</td>
-      <td>-4.42%</td>
-      <td>Other-Specify (Coronavirus)</td>
-      <td> 1.679 </td>
-    </tr>
+
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
 
