@@ -17,6 +17,12 @@ author_profile: true
     </tr>
   </thead>
         <tr>
+      <td>3/10/2020</td>
+      <td>4.94%</td>
+      <td>Taxes</td>
+      <td>0.389</td>
+    </tr>
+        <tr>
       <td>3/9/2020</td>
       <td>-7.60%</td>
       <td>Commodities</td>
@@ -40,12 +46,7 @@ author_profile: true
       <td>Other-Specify (Coronavirus)</td>
       <td>-0.249</td>
     </tr>
-      <tr>
-      <td>3/2/2020</td>
-      <td>4.60%</td>
-      <td>Monetary Policy</td>
-      <td>1.423</td>
-    </tr>
+
 
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
