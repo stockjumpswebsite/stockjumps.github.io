@@ -12,7 +12,7 @@ author_profile: true
 
 <b>Broad Approach.</b> We train human analysts to read each newspaper article, and classify it into one of 16 categories.
 
-Training coders: Before analysts started coding, they carefully read the audit guide <a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">Read Our Paper</a>, underwent a half-day training session and then coded 50 WSJ training articles. These WSJ training articles had already been coded up by us, enabling us to ensure our auditors were accurately coding (and to address any issues) before they coded the research sample.
+Training coders: Before analysts started coding, they carefully read the <a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">audit guide</a>, underwent a half-day training session and then coded 50 WSJ training articles. These WSJ training articles had already been coded up by us, enabling us to ensure our auditors were accurately coding (and to address any issues) before they coded the research sample.
 
 Finding articles: For each newspaper and each day with a market move of more than 2.5%, human readers search the newspaper’s archive for relevant articles published the following day. The readers search the archive on a given date for articles the mention phrases like ‘stock market’, ‘wall street’, ‘S&P’, or ‘Dow Jones’.
 

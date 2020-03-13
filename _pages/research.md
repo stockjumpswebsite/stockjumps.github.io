@@ -14,3 +14,5 @@ author_profile: true
 <a href="https://stockjumpswebsite.github.io/stockjumps/files/slidespdf.pdf" target="_blank">Slides</a> 
 
 <a href="https://www.dropbox.com/s/sgq7t10c6dboiwc/WSJ_final.zip?dl=0">Articles (zip)</a>
+
+<a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">Coding Guide</a>
