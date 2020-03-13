@@ -16,7 +16,19 @@ author_profile: true
       <th>Clarity</th>
     </tr>
   </thead>
-        <tr>
+    <tr>
+      <td>3/12/2020</td>
+      <td>-9.51%</td>
+      <td>Macroeconomic News & Outlook</td>
+      <td>-0.464</td>
+    </tr>
+    <tr>
+      <td>3/11/2020</td>
+      <td>-4.89%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td>0.072</td>
+    </tr>
+    <tr>
       <td>3/10/2020</td>
       <td>4.94%</td>
       <td>Taxes</td>
@@ -34,20 +46,6 @@ author_profile: true
       <td>Other-Specify (Coronavirus)</td>
       <td> 1.445 </td>
     </tr>
-    <tr>
-      <td>3/4/2020</td>
-      <td>4.22%</td>
-      <td>Elections and Political Transitions</td>
-      <td>1.289</td>
-    </tr>
-    <tr>
-      <td>3/3/2020</td>
-      <td>-2.81%</td>
-      <td>Other-Specify (Coronavirus)</td>
-      <td>-0.249</td>
-    </tr>
-
-
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
 
