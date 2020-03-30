@@ -6,7 +6,7 @@ author_profile: true
 
 <p>We assess large stock market moves in the United States and a dozen other countries based on newspaper accounts. We classify the jumps by their trigger, their geographic origin and the clarity of journalist perceptions about the reason for the move.</p>
 
-<a href="https://stockjumpswebsite.github.io/stockjumps/files/COVIDMarketReaction.pdf" target="_blank">Unprecedented</a> 
+<a href="https://stockjumpswebsite.github.io/stockjumps/files/COVIDMarketReaction.pdf" target="_blank">See our COVID-19 Paper Here</a> 
 
 <h3>Our Five Most Recent Codings</h3>
 <table>
