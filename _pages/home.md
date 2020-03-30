@@ -19,34 +19,34 @@ author_profile: true
     </tr>
   </thead>
     <tr>
-      <td>3/12/2020</td>
-      <td>-9.51%</td>
-      <td>Macroeconomic News & Outlook</td>
-      <td>-0.464</td>
+      <td>3/26/2020</td>
+      <td>6.24%</td>
+      <td>Government Spending</td>
+      <td>1.484</td>
     </tr>
     <tr>
-      <td>3/11/2020</td>
-      <td>-4.89%</td>
-      <td>Other-Specify (Coronavirus)</td>
-      <td>0.072</td>
-    </tr>
-    <tr>
-      <td>3/10/2020</td>
-      <td>4.94%</td>
-      <td>Taxes</td>
-      <td>0.389</td>
+      <td>3/24/2020</td>
+      <td>9.38%</td>
+      <td>Government Spending</td>
+      <td>1.679</td>
     </tr>
         <tr>
-      <td>3/9/2020</td>
-      <td>-7.60%</td>
-      <td>Commodities</td>
-      <td> 1.148</td>
+      <td>3/23/2020</td>
+      <td>-2.93%</td>
+      <td>Government Spending</td>
+      <td>.690</td>
     </tr>
       <tr>
-      <td>3/5/2020</td>
-      <td>-3.34%</td>
-      <td>Other-Specify (Coronavirus)</td>
-      <td> 1.445 </td>
+      <td>3/20/2020</td>
+      <td>-4.34%</td>
+      <td>Regulation</td>
+      <td> -1.171 </td>
+    </tr>
+    <tr>
+      <td>3/18/2020</td>
+      <td>-5.18%</td>
+      <td>Other-Specify</td>
+      <td>-0.3159</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
