@@ -9,7 +9,7 @@ author_profile: true
 
 <a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps.pdf" target="_blank">Paper</a> 
 
-<a href="https://stockjumpswebsite.github.io/stockjumps/files/COVIDMarketReaction.pdf" target="_blank">COVID-19 Paper</a> 
+<a href="https://stockjumpswebsite.github.io/stockjumps/files/COVIDMarketReaction.pdf" target="_blank">Unprecedented</a> 
 
 <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">Data</a> 
 
