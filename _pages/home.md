@@ -45,7 +45,7 @@ author_profile: true
     <tr>
       <td>3/18/2020</td>
       <td>-5.18%</td>
-      <td>Other-Specify</td>
+      <td>Other-Specify (Coronavirus)</td>
       <td>-0.3159</td>
     </tr>
   </table>
