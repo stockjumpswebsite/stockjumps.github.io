@@ -8,6 +8,12 @@ author_profile: true
 
 <a href="https://stockjumpswebsite.github.io/stockjumps/files/COVIDMarketReaction.pdf" target="_blank">See our COVID-19 Paper Here</a> 
 
+Media Coverage of our COVID-19 Paper:
+
+<a href='https://review.chicagobooth.edu/finance/2020/article/coronavirus-has-exerted-historic-influence-equity-markets' target='_blank'>Coronavirus has exerted historic influence on equity markets - Chicago Booth Review</a>
+
+<a href='https://review.chicagobooth.edu/finance/2020/video/how-has-covid-19-hit-stock-market' target='_blank'>How has COVID-19 hit the stock market? - Chicago Booth Review Interview of Steven J. Davis</a>
+
 <h3>Our Five Most Recent Codings</h3>
 <table>
   <thead>
