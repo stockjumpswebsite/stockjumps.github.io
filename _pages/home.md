@@ -52,7 +52,7 @@ Media Coverage of our COVID-19 Paper:
       <td>4/6/2020</td>
       <td>7.033%</td>
       <td>Other-Specify (Coronavirus)</td>
-      <td>-0.333</td>
+      <td>0.333</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
