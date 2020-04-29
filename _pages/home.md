@@ -25,34 +25,34 @@ Media Coverage of our COVID-19 Paper:
     </tr>
   </thead>
     <tr>
-      <td>3/26/2020</td>
-      <td>6.24%</td>
-      <td>Government Spending</td>
-      <td>1.484</td>
+      <td>4/21/2020</td>
+      <td>-3.07%</td>
+      <td>Commodities</td>
+      <td>-.333</td>
     </tr>
     <tr>
-      <td>3/24/2020</td>
-      <td>9.38%</td>
-      <td>Government Spending</td>
-      <td>1.679</td>
+      <td>4/17/2020</td>
+      <td>2.68%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td>-.060</td>
     </tr>
         <tr>
-      <td>3/23/2020</td>
-      <td>-2.93%</td>
-      <td>Government Spending</td>
-      <td>.690</td>
+      <td>4/14/2020</td>
+      <td>-3.06%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td>-.531</td>
     </tr>
       <tr>
-      <td>3/20/2020</td>
-      <td>-4.34%</td>
-      <td>Regulation</td>
-      <td> -1.171 </td>
+      <td>4/8/2020</td>
+      <td>-3.41%</td>
+      <td>Other-Specify (Coronavirus)</td>
+      <td> .632 </td>
     </tr>
     <tr>
-      <td>3/18/2020</td>
-      <td>-5.18%</td>
+      <td>4/6/2020</td>
+      <td>-7.033%</td>
       <td>Other-Specify (Coronavirus)</td>
-      <td>-0.3159</td>
+      <td>-0.333</td>
     </tr>
   </table>
   <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View More</a>
