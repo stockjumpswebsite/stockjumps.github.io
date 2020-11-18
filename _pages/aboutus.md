@@ -35,10 +35,10 @@ author_profile: true
 
 <b>Marco Sammon</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/mcs.png' alt='Marco Sammon' height='285' width='240'>
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/sammon_marco.png' alt='Marco Sammon' height='285' width='240'>
 <p>Northwestern University, Kellogg School of Management</p>
 <p>mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a></p>
-<p>Marco Sammon is a 5th year PhD Student at Northwestern University's Kellogg School of Management.  He is interested in understanding how the growth of passive ownership has changed the way information is incorporated into asset prices.</p><br/><br/>
+<p>Marco Sammon is a 6th year PhD candidate at Northwestern University's Kellogg School of Management.  He is interested in understanding how information is incorporated into asset prices.</p><br/><br/>
 
 <b>Tasaneeya Viratyosin</b>
 
@@ -47,6 +47,13 @@ author_profile: true
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
 <p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
 
+<b>Jana Nikolic</b>
+
+Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.
+
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Tasaneeya Viratyosin' height='285' width='240'>
+
+<br/><br/><br/>
 
 <h2><b>Researchers</b></h2>
 <b>TJ Ram</b>
