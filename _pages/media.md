@@ -18,3 +18,4 @@ author_profile: true
 8 April 2020 - <a href='https://review.chicagobooth.edu/finance/2020/video/how-has-covid-19-hit-stock-market' target='_blank'>How has COVID-19 hit the stock market?</a>
 
 10 April 2020 - <a href='https://review.chicagobooth.edu/finance/2020/article/coronavirus-has-exerted-historic-influence-equity-markets' target='_blank'>The coronavirus has exerted historic influence on equity markets</a>
+
