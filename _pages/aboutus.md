@@ -32,16 +32,16 @@ author_profile: true
 <img style='float:left; margin-right:15px; margin-bottom:15px; height:285px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' >
 <p>University of Chicago, Booth School of Business</p>
 <p>steve.davis@chicagobooth.edu | <a href="https://stevenjdavis.com/">Website</a></p>
-<p>Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy.</p><br/>
+<p>Steven J. Davis a Professor at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy.</p><br/>
 
 <br/>
 
-<b>Jana Nikolic</b>
+<b>Jana Obradovic</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px; height:285px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' >
+<img style='float:left; margin-right:15px; margin-bottom:15px; height:285px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Obradovic' >
 <p>Northwestern University, Kellogg School of Management</p>
 <p>jana.obradovic@kellogg.northwestern.edu | <a href="https://stockmarketjumps.com/">Website</a></p>
-<p>Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
+<p>Jana Obradovic has BSc and MSc in Economics from the University of Belgrade and is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
 
 <br/>
 
