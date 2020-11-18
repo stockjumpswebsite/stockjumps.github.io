@@ -11,7 +11,7 @@ author_profile: true
 
  <h3><b>Scott R. Baker</b></h3>
 
- <img style='float:left;margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' style="height:285px;">
+ <img style='float:left;margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/scott.png' alt='Scott R. Baker' height='285' width='240'>
 <p>Northwestern University, Kellogg School of Management</p>
 <p>s-baker@kellogg.northwestern.edu | <a href="https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx">Website</a></p> 
 <p>Scott R. Baker is an Associate Professor of Finance at Kellogg School of Management at Northwestern University. His research is concentrated in empirical finance and macroeconomics.</p><br/>
@@ -20,7 +20,7 @@ author_profile: true
 
 <h3><b>Nick Bloom</b></h3>
 
-<img style='float:left; margin-right:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png' alt='Nick Bloom' style="height:285px;">
+<img style='float:left; margin-right:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/NickBloom.png' alt='Nick Bloom' height='285' width='240'>
 <p>Stanford University</p>
 <p>nbloom@stanford.edu | <a href="http://www.stanford.edu/~nbloom/">Website</a></p>
 <p>Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. </p><br/>  
@@ -29,7 +29,7 @@ author_profile: true
  
 <h3><b>Steven J. Davis</b></h3>
 
-<img style='float:left; margin-right:15px; margin-bottom:35px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' style="height:285px;">
+<img style='float:left; margin-right:15px; margin-bottom:35px;' src='https://stockjumpswebsite.github.io/stockjumps/files/steve.png' alt='Steven J. Davis' height='285' width='240'>
 <p>University of Chicago, Booth School of Business</p>
 <p>steve.davis@chicagobooth.edu | <a href="https://stevenjdavis.com/">Website</a></p>
 <p>Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy.</p><br/>
@@ -38,26 +38,32 @@ author_profile: true
 
 <b>Jana Nikolic</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' style="height:285px;">
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' height='285' width='240'>
 <p>Northwestern University, Kellogg School of Management</p>
 <p>jana.obradovic@kellogg.northwestern.edu | <a href="https://stockmarketjumps.com/">Website</a></p>
 <p>Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
 
 <b>Marco Sammon</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/sammon_marco.jpg' alt='Marco Sammon' style="height:285px;">
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/sammon_marco.jpg' alt='Marco Sammon' height='285' width='240'>
 <p>Northwestern University, Kellogg School of Management</p>
 <p>mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a></p>
 <p>Marco Sammon is a 6th year PhD candidate at Northwestern University's Kellogg School of Management.  He is interested in understanding how information is incorporated into asset prices.</p><br/><br/>
 
 <b>Tasaneeya Viratyosin</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="height:285px;">
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' height='285' width='240'>
 <p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
 <p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
 
 <br/>
+
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="height:285px;">
+
+<p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
+<p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
+<p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
 
 <h2><b>Researchers</b></h2>
 <b>TJ Ram</b>
