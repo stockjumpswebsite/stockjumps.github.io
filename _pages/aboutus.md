@@ -39,8 +39,8 @@ author_profile: true
 <b>Jana Nikolic</b>
 
 <img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' height='285' width='240'>
-<p>Affiliation</p>
-<p>Email | <a href="https://stockmarketjumps.com/">Website</a></p>
+<p>Northwestern University, Kellogg School of Management</p>
+<p>jana.obradovic@kellogg.northwestern.edu | <a href="https://stockmarketjumps.com/">Website</a></p>
 <p>Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
 
 <b>Marco Sammon</b>
@@ -59,20 +59,20 @@ author_profile: true
 
 <br/>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="width:30px;height:30px;">
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="width:285px;height:285px;">
 
 <p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
 <p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="width:30px;">
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="width:285px;">
 
 <p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
 <p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
 
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="height:30px;">
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="height:285px;">
 
 <p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
