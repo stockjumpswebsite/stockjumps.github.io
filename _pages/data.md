@@ -7,16 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps.pdf" target="_blank">Read Our Paper</a> | <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View Our Data</a> | <a href="https://stockjumpswebsite.github.io/stockjumps/files/slidespdf.pdf" target="_blank">View Our Slides</a> | <a href="https://www.dropbox.com/s/sgq7t10c6dboiwc/WSJ_final.zip?dl=0">Download Articles (zip)</a>
+<a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps_Nov2020.pdf" target="_blank">Read Our Paper</a> | <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View Our Data</a> | <a href="https://www.dropbox.com/s/sgq7t10c6dboiwc/WSJ_final.zip?dl=0">Download Articles (zip)</a>
 
 
 <b>Broad Approach.</b> We train human analysts to read each newspaper article, and classify it into one of 16 categories.
 
-Training coders: Before analysts started coding, they carefully read the <a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">audit guide</a>, underwent a half-day training session and then coded 50 WSJ training articles. These WSJ training articles had already been coded up by us, enabling us to ensure our auditors were accurately coding (and to address any issues) before they coded the research sample.
+Training coders: Before analysts started coding, they carefully read the <a href="https://stockjumpswebsite.github.io/stockjumps/files/newguide.pdf" target="_blank">audit guide</a>, underwent a half-day training session and then coded 50 WSJ training articles. These WSJ training articles had already been coded up by us, enabling us to ensure our auditors were accurately coding (and to address any issues) before they coded the research sample.
 
 Finding articles: For each newspaper and each day with a market move of more than 2.5%, human readers search the newspaper’s archive for relevant articles published the following day. The readers search the archive on a given date for articles the mention phrases like ‘stock market’, ‘wall street’, ‘S&P’, or ‘Dow Jones’.
 
-Coding Articles: Readers are assigned to carefully review each article and categorize the article’s attribution of the cause of the stock market movement on the previous day based on the instructions in the audit guide <a href="https://stockjumpswebsite.github.io/stockjumps/files/coding_guide_pdf.pdf" target="_blank">.
+Coding Articles: Readers are assigned to carefully review each article and categorize the article’s attribution of the cause of the stock market movement on the previous day based on the instructions in the audit guide <a href="https://stockjumpswebsite.github.io/stockjumps/files/newguide.pdf" target="_blank">.
 
 <b>Data Fields</b>
 
