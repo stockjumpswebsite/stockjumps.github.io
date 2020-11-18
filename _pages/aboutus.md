@@ -16,6 +16,7 @@ author_profile: true
 <p>s-baker@kellogg.northwestern.edu | <a href="https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx">Website</a></p> 
 <p>Scott R. Baker is an Associate Professor of Finance at Kellogg School of Management at Northwestern University. His research is concentrated in empirical finance and macroeconomics.</p><br/>
 
+<br/><br/>
 
 <h3><b>Nick Bloom</b></h3>
 
@@ -24,7 +25,7 @@ author_profile: true
 <p>nbloom@stanford.edu | <a href="http://www.stanford.edu/~nbloom/">Website</a></p>
 <p>Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. </p><br/>  
 
-
+<br/><br/><br/><br/><br/><br/>
  
 <h3><b>Steven J. Davis</b></h3>
 
@@ -33,6 +34,7 @@ author_profile: true
 <p>steve.davis@chicagobooth.edu | <a href="https://stevenjdavis.com/">Website</a></p>
 <p>Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy.</p><br/>
 
+<br/><br/><br/>
 
 <b>Jana Nikolic</b>
 
