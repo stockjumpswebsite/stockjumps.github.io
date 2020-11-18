@@ -16,7 +16,7 @@ Training coders: Before analysts started coding, they carefully read the <a href
 
 Finding articles: For each newspaper and each day with a market move of more than 2.5%, human readers search the newspaper’s archive for relevant articles published the following day. The readers search the archive on a given date for articles the mention phrases like ‘stock market’, ‘wall street’, ‘S&P’, or ‘Dow Jones’.
 
-Coding Articles: Readers are assigned to carefully review each article and categorize the article’s attribution of the cause of the stock market movement on the previous day based on the instructions in the audit guide <a href="https://stockjumpswebsite.github.io/stockjumps/files/newguide.pdf" target="_blank">.
+Coding Articles: Readers are assigned to carefully review each article and categorize the article’s attribution of the cause of the stock market movement on the previous day based on the instructions in the audit guide.
 
 <b>Data Fields</b>
 
