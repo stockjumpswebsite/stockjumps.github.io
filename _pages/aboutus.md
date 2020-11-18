@@ -51,6 +51,9 @@ author_profile: true
 
 <img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' height='285' width='240'>
 
+<p>Affiliation</p>
+<p>Email | <a href="https://stockmarketjumps.com/">Website</a></p>
+
 <p>Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
 
 <h2><b>Researchers</b></h2>
