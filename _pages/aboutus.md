@@ -34,7 +34,7 @@ author_profile: true
 <p>steve.davis@chicagobooth.edu | <a href="https://stevenjdavis.com/">Website</a></p>
 <p>Steven J. Davis is the William H. Abbott Distinguished Service Professor of International Business and Economics at the University of Chicago Booth School of Business and Senior Fellow at the Hoover Institution. His research interests include business dynamics, hiring practices, job loss, economic uncertainty, and other topics in economics and public policy.</p><br/>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <b>Jana Nikolic</b>
 
@@ -59,7 +59,9 @@ author_profile: true
 
 <br/>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' style="height:285px;">
+<b>Tasaneeya Viratyosin</b>
+
+<img style='float:left; margin-right:15px; margin-bottom:15px; height:285px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin'>
 
 <p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
