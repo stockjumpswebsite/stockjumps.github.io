@@ -51,7 +51,7 @@ author_profile: true
 
 Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Tasaneeya Viratyosin' height='285' width='240'>
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' height='285' width='240'>
 
 <br/><br/><br/>
 
