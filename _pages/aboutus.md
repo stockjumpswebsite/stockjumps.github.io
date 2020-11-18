@@ -25,7 +25,7 @@ author_profile: true
 <p>nbloom@stanford.edu | <a href="http://www.stanford.edu/~nbloom/">Website</a></p>
 <p>Nick Bloom is a Professor of Economics at Stanford University. His research interests are investigating the causes and consequences of economic uncertainty. </p><br/>  
  
-<br/>
+<br/><br/>
 
 <h3><b>Steven J. Davis</b></h3>
 
