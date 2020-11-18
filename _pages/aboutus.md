@@ -35,7 +35,7 @@ author_profile: true
 
 <b>Marco Sammon</b>
 
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/sammon_marco.png' alt='Marco Sammon' height='285' width='240'>
+<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/sammon_marco.jpg' alt='Marco Sammon' height='285' width='240'>
 <p>Northwestern University, Kellogg School of Management</p>
 <p>mcsammon@gmail.com | <a href="http://marcosammon.com/">Website</a></p>
 <p>Marco Sammon is a 6th year PhD candidate at Northwestern University's Kellogg School of Management.  He is interested in understanding how information is incorporated into asset prices.</p><br/><br/>
@@ -49,11 +49,9 @@ author_profile: true
 
 <b>Jana Nikolic</b>
 
-Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.
-
 <img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Nikolic' height='285' width='240'>
 
-<br/><br/><br/>
+<p>Jana has BSc and MSc in Economics from the University of Belgrade and I is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
 
 <h2><b>Researchers</b></h2>
 <b>TJ Ram</b>
