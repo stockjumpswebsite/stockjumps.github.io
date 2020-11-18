@@ -47,12 +47,7 @@ author_profile: true
 <p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
 <p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
 
-<b>Tasaneeya Viratyosin</b>
-
-<img style='float:left; margin-right:15px; margin-bottom:15px;' src='https://stockjumpswebsite.github.io/stockjumps/files/tjv-photo.jpg' alt='Tasaneeya Viratyosin' height='285' width='240'>
-<p>PhD Student, University of Pennsylvania, Wharton School of Business</p>
-<p>tviratyo@wharton.upenn.edu | <a href="https://www.wharton.upenn.edu/">Website</a></p>
-<p>Tasaneeya Viratyosin is currently a PhD student at UPenn Wharton. She holds a BS in Business and an MS in Financial Mathematics, both from the University of Minnesota - Twin Cities.</p><br/><br/><br/>
+<br/><br/>
 
 <b>Jana Nikolic</b>
 
