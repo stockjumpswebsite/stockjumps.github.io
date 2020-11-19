@@ -10,5 +10,5 @@ author_profile: true
 
 <a href='https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246'><img src='https://stockjumpswebsite.github.io/stockjumps/files/jumpsyears.png'></a> 
   
-{% include carousel.html height="800" unit="px" duration="7" %}
+{% include carousel.html height="500" unit="px" duration="7" %}
 
