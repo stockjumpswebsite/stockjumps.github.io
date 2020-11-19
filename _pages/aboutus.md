@@ -34,7 +34,7 @@ author_profile: true
 <p>steve.davis@chicagobooth.edu | <a href="https://stevenjdavis.com/">Website</a></p>
 <p>Steven J. Davis is Professor at Chicago Booth and Senior Fellow at the Hoover Institution. His research interests are labor markets and business dynamics.</p><br/>
 
-<br/>
+<br/><br/><br/>
 
 <b>Jana Obradovic</b>
 
