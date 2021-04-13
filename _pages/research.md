@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps_Nov2020.pdf" target="_blank">What Triggers Stock Market Jumps?</a> 
+<a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps_13April2021.pdf" target="_blank">What Triggers Stock Market Jumps?</a> 
 
 <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">Jumps Data</a> 
 

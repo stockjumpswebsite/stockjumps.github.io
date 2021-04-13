@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps_Nov2020.pdf" target="_blank">Read Our Paper</a> | <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View Our Data</a> | <a href="https://www.dropbox.com/s/sgq7t10c6dboiwc/WSJ_final.zip?dl=0">Download Articles (zip)</a>
+<a href="https://stockjumpswebsite.github.io/stockjumps/files/BBDS_BigJumps_13April2021.pdf" target="_blank">Read Our Paper</a> | <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View Our Data</a> | <a href="https://www.dropbox.com/s/sgq7t10c6dboiwc/WSJ_final.zip?dl=0">Download Articles (zip)</a>
 
 
 <b>Broad Approach.</b> We train human analysts to read each newspaper article, and classify it into one of 16 categories.
