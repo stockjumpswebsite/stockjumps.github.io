@@ -8,5 +8,5 @@ author_profile: true
 
 <a href="https://docs.google.com/spreadsheets/d/1BtWwJ-DSvbxsfPoDShWBvEgVbbt65C1g5qiDQST4Sic/edit#gid=1174245246" target="_blank">View Our Data</a>
   
-{% include carousel.html height="550" unit="px" duration="7" %}
+{% include carousel.html height="550" unit="px" duration="10" %}
 
