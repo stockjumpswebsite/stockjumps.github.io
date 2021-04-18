@@ -6,9 +6,6 @@ main:
   - title: "Data"
     url: /data/    
 
-  - title: "Media"
-    url: /media/    
-
   - title: "About Us"
     url: /aboutus/    
   
