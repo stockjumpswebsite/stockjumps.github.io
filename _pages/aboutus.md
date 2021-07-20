@@ -40,7 +40,7 @@ author_profile: true
 
 <img style='float:left; margin-right:15px; margin-bottom:15px; height:285px;' src='https://stockjumpswebsite.github.io/stockjumps/files/jana.jpg' alt='Jana Obradovic' >
 <p>Northwestern University, Kellogg School of Management</p>
-<p>jana.obradovic@kellogg.northwestern.edu | <a href="https://stockmarketjumps.com/">Website</a></p>
+<p>janaobradovic2027@u.northwestern.edu | <a href="https://stockmarketjumps.com/">Website</a></p>
 <p>Jana Obradovic has BSc and MSc in Economics from the University of Belgrade and is currently working on finishing her second MSc in Quantitative Finance, also at the University of Belgrade.</p><br/><br/><br/>
 
 <br/>
