@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-<p>We assess large stock market moves in the United States and a dozen other countries based on newspaper accounts. We classify the jumps by their trigger, their geographic origin and the clarity of journalist perceptions about the reason for the move.</p>
+<p>We examine next-day newspaper accounts of more than 8,000 large daily jumps in 19 national stock markets to assess their proximate cause, clarity as to cause, and the geographic source of the market-moving news.</p>
 
 <a href="https://voxeu.org/article/distinctive-character-policy-driven-stock-market-jumps" target="_blank">Coverage in VOXEU</a>
   
